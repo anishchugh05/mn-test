@@ -1,1 +1,2 @@
-MAX_RETRIES = 18
+MAX_RETRIES = 21
+# note
