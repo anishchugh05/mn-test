@@ -4,4 +4,4 @@
 
 What this team wants every AI coding tool to know about this project. One line per memory; the full files are in `.mnemolith/team/memories/`.
 
-- Payments retry up to 18 times before failing. (payments-retry-up-to-18-times-before-failing)
+- Payments retry up to 21 times before failing. (payments-retry-up-to-18-times-before-failing)
